@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HyperGarageSale</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Hyper Garage sale application</string>
+    <string name="title_hint">Enter Item name</string>
+    <string name="price_hint">Enter Price</string>
+    <string name="desc_hint">Description</string>
+    <string name="button_post">Post</string>
+    <string name="title_activity_browse_post">BrowsePostActivity</string>
+    <string name="new_post_snackbar">Item has been posted!</string>
+    <string name="new_post_menu">Menu</string>
+    <string name="title_activity_browse_posts">BrowsePostsActivity</string>
+    <string name="attribute1">Name:</string>
+    <string name="attribute2">Price($):</string>
+    <string name="attribute3">Description:</string>
+    <string name="attribute4">Email Address:</string>
+    <string name="email_hint">Email Address:</string>
+    <string name="title_activity_home_page">Hyper Garage Sale</string>
+</resources>
